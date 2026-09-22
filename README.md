@@ -25,10 +25,15 @@
 
 ONE4ALL is a **Solana revshare memecoin** with public SOL reward receipts, a city of cats, and free PFP and meme tools. The mission is to keep building, show the receipts, and give the community a character it can make its own. Rewards vary and are not guaranteed.
 
-The latest release improves mobile, restores a darker city with cleaner shops,
-and adds more community laptop stickers to the original-pose PFP maker.
-[Make your Omni](https://o4asol.com/?view=create) or read the
-[September 10 update](https://github.com/o4a-sol/ONE4ALL/blob/main/NOW.md).
+Explore the [public treasury](https://o4asol.com/?view=treasury),
+[SOL reward records](https://o4asol.com/?view=rewards),
+[Wall of Legends](https://o4asol.com/build), and
+[Omni PFP studio](https://o4asol.com/?view=create).
+Read [current public surfaces and release history](https://github.com/o4a-sol/ONE4ALL/blob/main/NOW.md).
+
+**Official Solana Token-2022 mint:**
+[`5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV`](https://solscan.io/token/5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV).
+Names and tickers can be copied; verify the full address.
 
 The rewards dashboard labels pre-split flow separately from SOL paid to eligible
 holders. Check the live receipts for current amounts and source freshness.
