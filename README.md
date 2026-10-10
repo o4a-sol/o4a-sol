@@ -16,6 +16,7 @@
   · <a href="https://o4asol.com/talk">TALK TO OMNI</a>
   · <a href="https://x.com/o4Asol">X</a>
   · <a href="https://t.me/o4asol">TELEGRAM</a>
+  · <a href="https://discord.gg/z29kkT95Td">DISCORD</a>
 </p>
 
 ```text
